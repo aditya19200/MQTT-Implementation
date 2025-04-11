@@ -138,6 +138,9 @@ GitHub: aditya19200
 ## References
 - MQTT Specification
 - IoT Communication Protocols
+## installation of Mosquitto for windows
+winget install Mosquitto 
+
 ```
 
 ### Recommended `requirements.txt` Content:
